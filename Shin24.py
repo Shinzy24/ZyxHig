@@ -1,8 +1,8 @@
 #################################################################
-#         		ATHOUR : MR.RISKY			#
-#  		     WHATSAPP : 6283143565470			#
-#		  GITHUB : github.com/Dumai-991			#
-#	       FACEBOOK : m.facebook.com/llovexnxx		#
+#         		ATHOUR : MR.SHINZY			#
+#  		     WHATSAPP : 6285740559154			#
+#		  GITHUB : github.com/Shin24			#
+#	       FACEBOOK : m.facebook.com/xzy		        #
 #################################################################
 #By Mr.Risky
 import os
@@ -894,7 +894,7 @@ def ganti_ua():
 		dump = open('.ua','w') 
 		dump.write(uq)
 		dump.close()
-		exit(war+"Jalankan Lagi Script : python jmbf.py")
+		exit(war+"Jalankan Lagi Script : python Shin24.py")
 exec(base64.b64decode(ua_mm[2]))
 def get_info():
     i='\033[0;92m'
